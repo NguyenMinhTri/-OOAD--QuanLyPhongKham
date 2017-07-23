@@ -1,4 +1,6 @@
-﻿using System;
+﻿using DAO;
+using DTO;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +17,15 @@ namespace QuanLyPhongKham
         public Form1()
         {
             InitializeComponent();
+            DTOBenhNhan BenhNhan = new DTOBenhNhan();
+            BenhNhan.Ten = "Tri";
+            BenhNhan.NgheNghiep = "IT";
+            BenhNhan.SDT = "01687226446";
+            BenhNhan.Tuoi = 18;
+            BenhNhan.DiaChi = "HCM";
+            BenhNhan.CMND = "312247075"
+            DAOBenhNhan daoBenhNhan = new DAOBenhNhan();
+            daoBenhNhan.ThemBenhNhan(BenhNhan);
         }
     }
 }
