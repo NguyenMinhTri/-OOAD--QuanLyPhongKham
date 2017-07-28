@@ -39,6 +39,7 @@ namespace DAO
         //-----------------------------------------
         private DatabaseConnection()
         {
+            //Connection string
             _sqlConn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\QuanLyDieuTriBenh.mdf;Integrated Security=True");
         }
         //-----------------------------------------
