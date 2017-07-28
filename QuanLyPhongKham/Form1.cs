@@ -23,9 +23,9 @@ namespace QuanLyPhongKham
             BenhNhan.SDT = "01687226446";
             BenhNhan.Tuoi = 18;
             BenhNhan.DiaChi = "HCM";
-            BenhNhan.CMND = "312247075"
+            BenhNhan.CMND = "312247075";
             DAOBenhNhan daoBenhNhan = new DAOBenhNhan();
-            daoBenhNhan.ThemBenhNhan(BenhNhan);
+            daoBenhNhan.Them(BenhNhan);
         }
     }
 }

@@ -1,1 +1,14 @@
 D:\OOAD\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe.config
+D:\OOAD\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe
+D:\OOAD\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.pdb
+D:\OOAD\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\DAO.dll
+D:\OOAD\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\DTO.dll
+D:\OOAD\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\DAO.pdb
+D:\OOAD\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\DTO.pdb
+D:\OOAD\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csprojResolveAssemblyReference.cache
+D:\OOAD\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.Properties.Resources.resources
+D:\OOAD\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.GenerateResource.Cache
+D:\OOAD\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe
+D:\OOAD\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.pdb
+D:\OOAD\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\QuanLyDieuTriBenh.mdf
+D:\OOAD\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\QuanLyDieuTriBenh_log.ldf

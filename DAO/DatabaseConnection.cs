@@ -39,7 +39,7 @@ namespace DAO
         //-----------------------------------------
         private DatabaseConnection()
         {
-            _sqlConn = new SqlConnection(@"Data Source=.;Initial Catalog=QuanLyDieuTriBenh;Integrated Security=True");
+            _sqlConn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\QuanLyDieuTriBenh.mdf;Integrated Security=True");
         }
         //-----------------------------------------
         //Desc: Mở kết nối
@@ -50,8 +50,9 @@ namespace DAO
             {
                 _sqlConn.Open();
             }
-            catch
+            catch(Exception ex)
             {
+                string check = ex.ToString();
                 return false;
             }
             return true;
