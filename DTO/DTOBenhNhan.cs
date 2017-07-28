@@ -14,5 +14,6 @@ namespace DTO
        public string DiaChi;
        public string SDT;
        public string NgheNghiep;
+       public string CMND;
     }
 }
